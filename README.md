@@ -19,13 +19,13 @@ Elo 레이팅 전략 사용
 
 ## 시나리오 1번 레코드
 
-efficiency_score: 98.3533
+efficiency_score: 95.9259
 
-accuracy_score1: 68.6667
+accuracy_score1: 79.7778
 
-accuracy_score2: 57.921
+accuracy_score2: 61.7019
 
-score: 230.5879
+score: 246.5164
 
 ## 시나리오 2번 레코드
 status: finished
